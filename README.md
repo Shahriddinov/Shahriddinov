@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 <div> 
   <a href="https://t.me/murod2909" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"  
   target='_blank'></a>
-  <a href="https://www.linkedin.com/in/murod-shahriddinov-679252215/" target="_blank"><img src="https://brand.linkedin.com/content/dam/brand/site/img/logo/do/do-approved-assets.png"  
+  <a href="https://www.linkedin.com/in/murod-shahriddinov-679252215/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  
   target='_blank'></a>
  </br>
 </br>
